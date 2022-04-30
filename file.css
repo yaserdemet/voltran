@@ -7,7 +7,7 @@
   background-color: #f63232;
   height: 100px;
   text-align: center;
-  position: fixed;
+  position: sticky;
   display: block;
   width: 100%;
   z-index: 1;
