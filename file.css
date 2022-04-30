@@ -32,7 +32,8 @@
   margin: auto;
   text-align: center;
   /* border: 2px red solid; */
-  position: static;
+  position: sticky;
+  top: 100px;
 }
 
 nav li {
