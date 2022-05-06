@@ -34,6 +34,7 @@
   /* border: 2px red solid; */
   position: sticky;
   top: 68px;
+  z-index : 2;
 }
 
 nav li {
